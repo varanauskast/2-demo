@@ -1,0 +1,16 @@
+{
+  "name": "2-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=3000 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
+}
